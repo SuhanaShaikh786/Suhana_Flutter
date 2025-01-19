@@ -18,6 +18,7 @@ class Screen7 extends StatelessWidget {
                 children: [CircleAvatar(
                   backgroundColor: const Color.fromARGB(255, 209, 167, 164),
                   radius: 50,
+                  
                         
                 ), 
                 SizedBox(width: 10),
@@ -26,6 +27,7 @@ class Screen7 extends StatelessWidget {
                   radius: 50,
                 ),
                  SizedBox(width: 10),
+                 
                  CircleAvatar(
                   backgroundColor: Colors.red,
                   radius: 50,
